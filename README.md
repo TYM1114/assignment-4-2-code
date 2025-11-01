@@ -1,6 +1,6 @@
 以下是 assignment 4-2 的source code
 
-::ℹ️
+ℹ️
 arl_results.csv 是數據
 
 
