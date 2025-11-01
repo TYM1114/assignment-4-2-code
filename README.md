@@ -1,4 +1,5 @@
 以下是 assignment 4-2 的source code
+arl_results.csv 是數據
 ```bash
 import numpy as np
 import pandas as pd
